@@ -3,7 +3,6 @@
 #
 # Name: Itai Shamay
 # Date: 2/6/2026
-# 
 # -------------------------------------------------------------
 
 from cryptography import x509
